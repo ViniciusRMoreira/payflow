@@ -34,7 +34,8 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyles.titleRegular,
                     children: [
                       TextSpan(
-                          text: "Gabul", style: TextStyles.titleBoldBackground)
+                          text: "Vinicius",
+                          style: TextStyles.titleBoldBackground)
                     ]),
               ),
               subtitle: Text(
